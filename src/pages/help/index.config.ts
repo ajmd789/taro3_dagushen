@@ -1,4 +1,4 @@
 export default definePageConfig({
-    navigationBarTitleText: '帮助'
+    navigationBarTitleText: '简易九卦'
   })
   
